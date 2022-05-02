@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">, Luisa Garcia</h1>
+<h1 align="center">Hola <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">,Soy Luisa Garcia</h1>
 <h3 align="center">Soy desarrolladora frontend junior :blush:</h3>
 <p align="center" >
     Tecnologa en Sistemas | Desarrollador web Front-End con énfasis en ReactJs | Redux | HTML5 | CSS3 | JavaScript | Bootstrap | Git & GitHub | Design Thinking | Metodologías agiles | Responsabilidad y compromiso.
